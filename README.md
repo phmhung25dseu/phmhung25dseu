@@ -1,5 +1,5 @@
 # Data Analyst
- ***A fresher Data Analyst who loves to play, reseach insights from data***
+ ***A fresher Data Analyst who loves to reseach and find insights from data***
 ## Technical skills
   - SQL: MySQL, PostgreSQl, Google BigQuery
   - Power BI: DAX, Power Query, Data Modeling
