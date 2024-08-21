@@ -5,7 +5,7 @@
   - Power BI: DAX, Power Query, Data Modeling
   - Python: Pandas, NumPy, Matplotlib, Seaborn
   - Machine Learning: Supervised Learning and Unsupervised Learning
-##**Project**
+## **Project**
 1. Ecommerce project - Google BigQuery
 2. Bicycle Manufacturer project - Google BigQuery
 3. Global Superstore Sales - Power BI
