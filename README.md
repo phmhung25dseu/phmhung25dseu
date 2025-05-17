@@ -6,11 +6,22 @@
 - 📊 Power BI: DAX, Power Query, Data Modeling
 - 🐍 Python: Pandas, NumPy, Matplotlib, Seaborn
 - 🤖 Machine Learning: Supervised & Unsupervised Learning
-## ** 📁 Project**
-🛒 Ecommerce project - Google BigQuery
-🚲 Bicycle Manufacturer project - Google BigQuery
-🌍 Global Superstore Sales - Power BI
-🧠 RFM Segmentation - Power BI
-💳 E-wallet company - Python
+## 📁 Project
+1. 🛒 Ecommerce project - Google BigQuery
+2. 🚲 Bicycle Manufacturer project - Google BigQuery
+3. 🌍 Global Superstore Sales - Power BI
+4. 🧠 RFM Segmentation - Power BI
+5. 💳 E-wallet company - Python
+## 🎓 Education
+Bachelor of Finance and Banking – HCM Open University (GPA 3.84/4.00 - 8.88/10)
+
+🏆 Third prize in Olympic Excel
+
+**Certifications**
+- SQL Advanced (Hackerank)
+- IELTS
+- MOS Word (957/1000), MOS Excel (985/1000)
+
+
 
 
