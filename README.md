@@ -1,5 +1,8 @@
 # 👋 Welcome to my page
 # 🧑‍💼 Phạm Quang Hưng | Data Analyst
+## 📫 How to reach me:
+| [LinkedIn](www.linkedin.com/in/phmquaghung) | phamhung13101998@gmail.com
+## 👋 About Me
  ***I graduated with a major in Finance and Banking. I have a strong interest in data - an essential asset in 21st - century business. In today's world, data is not just information; it's the new currency and the universal language of business.***
 ## 🔧 Technical skills
 - 💾 SQL: MySQL, PostgreSQL, Google BigQuery
