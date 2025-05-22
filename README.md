@@ -20,7 +20,7 @@ This project focuses on analyzing web traffic, user behavior, and e-commerce per
 
 
 ---
-### [(https://github.com/phmhung25dseu/Ecommerce_Global-Power-BI)](https://github.com/phmhung25dseu/Ecommerce_Global-Power-BI)
+### [Ecommerce Global | Power-BI](https://github.com/phmhung25dseu/Ecommerce_Global-Power-BI)
 This project presents a comprehensive strategic dashboard designed to analyze customer behavior, market trends, product performance, and business profitability. It leverages key performance indicators and visual analytics to support data-driven decisions across customer demographics, revenue distribution, and global market insights.
 
 ---
