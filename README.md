@@ -10,7 +10,7 @@
 - 🐍 Python: Pandas, NumPy, Matplotlib, Seaborn
 - 🤖 Machine Learning: Supervised & Unsupervised Learning
 ## 📁 Project
-### [Bicycle_Manufacturer_SQL](https://github.com/phmhung25dseu/ECommerce_SQL)]
+### [Bicycle_Manufacturer_SQL](https://github.com/phmhung25dseu/ECommerce_SQL)
 This project focuses on analyzing key operational and sales metrics to uncover insights across product subcategories, territories, and time periods. It aims to support strategic decision-making by evaluating sales trends, customer retention, stock dynamics, discount impacts, and order statuses.
 
 
