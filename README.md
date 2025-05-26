@@ -15,7 +15,7 @@ This project focuses on analyzing key operational and sales metrics to uncover i
 
 
 ---
-### [ECommerce |SQL, Google Bigquery](https://github.com/phmhung25dseu/E-commerce-SQL-Google-BigQuery)
+### [Explore Ecommerce Dataset|SQL, Google Bigquery](https://github.com/phmhung25dseu/E-commerce-SQL-Google-BigQuery)
 This project focuses on analyzing web traffic, user behavior, and e-commerce performance using Google Analytics data. It aims to uncover insights such as bounce rates, purchase patterns, session revenue, and product engagement across different time frames and user segments.
 
 
