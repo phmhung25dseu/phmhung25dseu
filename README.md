@@ -18,6 +18,9 @@ This project focuses on analyzing key operational and sales metrics to uncover i
 ### [Explore Ecommerce Dataset | SQL, Google Bigquery](https://github.com/phmhung25dseu/E-commerce-SQL-Google-BigQuery)
 This project focuses on analyzing web traffic, user behavior, and e-commerce performance using Google Analytics data. It aims to uncover insights such as bounce rates, purchase patterns, session revenue, and product engagement across different time frames and user segments.
 
+---
+### [Bank Loan | Power BI](https://github.com/phmhung25dseu/Bank-loan-Power-BI)
+This project analyzes loan application and performance data to uncover key trends, risk factors, and customer behaviors. The goal is to improve loan approval strategies through data-driven insights that enhance risk management and portfolio performance.
 
 ---
 ### [E-commerce Performance Analysis | PowerBI ](https://github.com/phmhung25dseu/Ecommerce_Global-Power-BI)
@@ -26,6 +29,7 @@ This project presents a comprehensive strategic dashboard designed to analyze cu
 ---
 ### [E-commerce RFM-based Customer Segmentation | Python](https://github.com/phmhung25dseu/Segment_Customer_Analysis_SuperStore_Company_E_commerce)
 This project aims to support SuperStore's Marketing Department by developing an automated customer segmentation pipeline using the RFM (Recency, Frequency, Monetary) model in Python. This approach will help run targeted marketing campaigns during the holiday season and overcome the limitations of manual data processing.
+
 
 ## 🎓 Education
 Bachelor of Finance and Banking – HCM Open University (GPA 3.84/4.00 - 8.88/10)
