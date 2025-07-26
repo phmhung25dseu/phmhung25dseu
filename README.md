@@ -19,6 +19,10 @@ This project focuses on analyzing key operational and sales metrics to uncover i
 This project focuses on analyzing web traffic, user behavior, and e-commerce performance using Google Analytics data. It aims to uncover insights such as bounce rates, purchase patterns, session revenue, and product engagement across different time frames and user segments.
 
 ---
+### [Supply Chain | Power BI](https://github.com/phmhung25dseu/Supply-Chain)
+This project analyzes customer segments, revenue trends, and delivery performance. It highlights key issues like declining revenue and late deliveries, with recommendations to optimize logistics and focus on high-value customers.
+
+---
 ### [Bank Loan | Power BI](https://github.com/phmhung25dseu/Bank-loan-Power-BI)
 This project analyzes loan application and performance data to uncover key trends, risk factors, and customer behaviors. The goal is to improve loan approval strategies through data-driven insights that enhance risk management and portfolio performance.
 
